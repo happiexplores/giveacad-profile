@@ -65,10 +65,7 @@ small{
 	margin: auto;
 }
 .Profile-box img:hover{
-	width: 240px;
-}
-.Profile-box:hover{
-	background: #2196f3;
+	width: 240px; 
 }
 .Profile-box:hover h4{
 	color: :#fff;
